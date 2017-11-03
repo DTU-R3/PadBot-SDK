@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/49c94cce08ac5ae840362cf5d20484cc717b64b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_0f0f583d22b872f1bb7d131f1a3bee7c181c1663.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/a4a7650d2124c53de6e1bc858157d214a487ca9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_924a86b13845a338024805a0ad4ba36af087ad8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/a4a7650d2124c53de6e1bc858157d214a487ca9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_924a86b13845a338024805a0ad4ba36af087ad8d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f9d4a15dac83e08be76e6ea057cb50cce2d3243b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/a79c4a49f00ab78e2fb73f62fb93e155bba51f58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14de83ca14af397de09459dd8e35a689fa280279/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/1fbf16bcda185f87fd8e9529664025a97d12ccc5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_def82498787a691958950eb6591f663c400f5307/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/727890347c1d878665e01508c54762f4724cdedd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38115c69562d4087564afb177e2a971aa95a1a46">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab307fc50832569780b60dce2f63be83c18dee98/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/1fbf16bcda185f87fd8e9529664025a97d12ccc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_def82498787a691958950eb6591f663c400f5307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/179af3b72b96e2bec0132337c6702460a0f2b1c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_5c269e527efcd734821d16cace926fa4ed18ff67.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/49c94cce08ac5ae840362cf5d20484cc717b64b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f0f583d22b872f1bb7d131f1a3bee7c181c1663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1b9b6993905cea12b182adecc565bf3c260eebc">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2b6c55b49741f8ab32ef70d09bebdb1e89c12009/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/727890347c1d878665e01508c54762f4724cdedd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38115c69562d4087564afb177e2a971aa95a1a46">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_ab307fc50832569780b60dce2f63be83c18dee98.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/179af3b72b96e2bec0132337c6702460a0f2b1c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c269e527efcd734821d16cace926fa4ed18ff67/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/651a107918b7432c0c0e565abd6631c513d60b7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_180e28d2ab5873811b9443806ffdab493da0d6e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/651a107918b7432c0c0e565abd6631c513d60b7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_180e28d2ab5873811b9443806ffdab493da0d6e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/libs/padbotsdk-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5bfe021f3970032e0d699f7705c81c1b88a4a3">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/2/padbotsdk-3.0.0_9310f566da27dcc5a620078d332793ca7f362a0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_9de2eec1a2cc2d1dd3613ad159de44df8fb3c2c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/a79c4a49f00ab78e2fb73f62fb93e155bba51f58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_14de83ca14af397de09459dd8e35a689fa280279.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_150e4d4f367696d9e331b0490adcf5d6917322aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/13da7ccf61c4576c4b583807048f5a41db9aaac9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_906754ebc241f19ac55e198203db5a26c115e358.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/13da7ccf61c4576c4b583807048f5a41db9aaac9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_906754ebc241f19ac55e198203db5a26c115e358/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_9de2eec1a2cc2d1dd3613ad159de44df8fb3c2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_150e4d4f367696d9e331b0490adcf5d6917322aa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/213184bc64eebfbffba2c90bcdfe5b9dcf4ca3e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc23f0d35fec22c81122922a9332d6a53a634690/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/213184bc64eebfbffba2c90bcdfe5b9dcf4ca3e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_cc23f0d35fec22c81122922a9332d6a53a634690.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_289ae2156838a3d96053a9d6daf84170a5ae663f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_289ae2156838a3d96053a9d6daf84170a5ae663f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/libs/padbotsdk-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5bfe021f3970032e0d699f7705c81c1b88a4a3">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/padbotsdk-3.0.0_9310f566da27dcc5a620078d332793ca7f362a0a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/53a9480ff2efff256cd46ea7a7fe945f7a1f6585/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1480af113a7a74b7392ced851bea0a88be5831f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/53a9480ff2efff256cd46ea7a7fe945f7a1f6585/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_d1480af113a7a74b7392ced851bea0a88be5831f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/478f9bc26105fb3185014a72685aec23c1394d56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98531048fb7e15e79193a6461b22795454e89bd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/7aebf88b49a6b22a2e9d02a19965b2757ac25d05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d05c16d86108d3d34377946a79d79f8485a46bfa">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_188e5e6a31030c28cca2c3a0d196185f55cd1a45.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ros/.android/build-cache/7aebf88b49a6b22a2e9d02a19965b2757ac25d05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d05c16d86108d3d34377946a79d79f8485a46bfa">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_188e5e6a31030c28cca2c3a0d196185f55cd1a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ros/.android/build-cache/478f9bc26105fb3185014a72685aec23c1394d56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ros/Git/PadBot-SDK/PadBotSDK3.0-Android/demo/PadBotSDKDemo-Android/app/build/intermediates/pre-dexed/debug/classes_98531048fb7e15e79193a6461b22795454e89bd6.jar" />
+    </item>
+
+</items>

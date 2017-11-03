@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.baoyz.pullrefreshlayout:library-1.2.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/7aebf88b49a6b22a2e9d02a19965b2757ac25d05/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7aebf88b49a6b22a2e9d02a19965b2757ac25d05/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baoyz.pullrefreshlayout/library/1.2.0/fb5a21ff8a63a8f3206c773fc323be030771e3b6/library-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
