@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.inbot.padbotsdkdemo.MainActivity">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:id="@+id/my_robot_is_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_centerHorizontal="true"
+            android:textSize="30dp"
+            android:text="My robot is : "/>
+
+        <Button
+            android:id="@+id/u_mode_bt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/my_robot_is_tv"
+            android:layout_margin="20dp"
+            android:padding="20dp"
+            android:onClick="onClick"
+            android:text="PadBot U/T Series"/>
+
+        <Button
+            android:id="@+id/p_mode_bt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/u_mode_bt"
+            android:layout_margin="20dp"
+            android:padding="20dp"
+            android:onClick="onClick"
+            android:text="PadBot P/X Series"/>
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
