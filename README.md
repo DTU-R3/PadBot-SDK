@@ -3,7 +3,9 @@ The Android SDK for PadBot
 
 ## Robot
 
-* http://inbot.cn/
+Company Website
+* http://www.padbot.com
+* http://inbot.cn
 
 PadBot P1:
 ![Alt text](/images/P1.jpg "Padbot P1")
